@@ -1,0 +1,26 @@
+fieldset {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: xx-large;
+  color: whitesmoke;
+  background-color: rgba(58, 49, 49, 0.753);
+  height: 10vh;
+}
+
+button {
+border: none;
+background-color: rgba(58, 49, 49, 0.753);
+color: whitesmoke;
+height: 5vh;
+width: 15vw;
+}
+div {
+  color: red;
+  font-size: large;
+}
+
+
+
+
+
